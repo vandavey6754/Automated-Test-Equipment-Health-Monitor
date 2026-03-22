@@ -1,0 +1,121 @@
+2026-03-16 20:18:21,214 - INFO - Starting ATE Health Monitor
+2026-03-16 20:18:22,220 - INFO - Collected metrics: {'cpu': 8.4, 'memory': 68.5, 'disk': 12.5}
+2026-03-16 20:18:22,220 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 20:18:22,221 - INFO - CPU: 8.4%
+2026-03-16 20:18:22,221 - INFO - MEMORY: 68.5%
+2026-03-16 20:18:22,221 - INFO - DISK: 12.5%
+2026-03-16 20:18:22,221 - INFO - CPU: PASS
+2026-03-16 20:18:22,221 - INFO - MEMORY: PASS
+2026-03-16 20:18:22,221 - INFO - DISK: PASS
+2026-03-16 20:18:22,222 - INFO - Report saved successfully
+2026-03-16 20:18:22,222 - INFO - ATE health monitoring finished
+
+2026-03-16 20:33:19,390 - INFO - Starting ATE Health Monitor
+2026-03-16 20:33:20,395 - INFO - Collected metrics: {'cpu': 6.2, 'memory': 67.7, 'disk': 12.5}
+2026-03-16 20:33:20,395 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 20:33:20,396 - INFO - CPU: 6.2%
+2026-03-16 20:33:20,396 - INFO - MEMORY: 67.7%
+2026-03-16 20:33:20,396 - INFO - DISK: 12.5%
+2026-03-16 20:33:20,396 - INFO - CPU: PASS
+2026-03-16 20:33:20,396 - INFO - MEMORY: PASS
+2026-03-16 20:33:20,396 - INFO - DISK: PASS
+2026-03-16 20:33:20,396 - INFO - OVERALL STATUS: PASS
+2026-03-16 20:33:20,397 - INFO - Report saved successfully
+2026-03-16 20:33:20,397 - INFO - ATE health monitoring finished
+
+2026-03-16 20:53:48,227 - INFO - Starting ATE Health Monitor
+2026-03-16 20:53:49,232 - INFO - Collected metrics: {'cpu': 5.4, 'memory': 68.3, 'disk': 12.5}
+2026-03-16 20:53:49,233 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 20:53:49,233 - INFO - CPU: 5.4%
+2026-03-16 20:53:49,233 - INFO - MEMORY: 68.3%
+2026-03-16 20:53:49,233 - INFO - DISK: 12.5%
+2026-03-16 20:53:49,233 - INFO - CPU: PASS
+2026-03-16 20:53:49,233 - INFO - MEMORY: PASS
+2026-03-16 20:53:49,233 - INFO - DISK: PASS
+2026-03-16 20:53:49,233 - INFO - OVERALL STATUS: PASS
+2026-03-16 20:53:49,234 - INFO - Report saved successfully
+2026-03-16 20:53:49,234 - INFO - ATE health monitoring finished
+
+2026-03-16 21:14:53,653 - INFO - Starting ATE Health Monitor
+2026-03-16 21:14:54,659 - INFO - Collected metrics: {'cpu': 95, 'memory': 68.4, 'disk': 12.5}
+2026-03-16 21:14:54,659 - INFO - Evaluation results: {'cpu': 'FAIL', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 21:14:54,659 - INFO - CPU: 95%
+2026-03-16 21:14:54,660 - INFO - MEMORY: 68.4%
+2026-03-16 21:14:54,660 - INFO - DISK: 12.5%
+2026-03-16 21:14:54,660 - INFO - CPU: FAIL
+2026-03-16 21:14:54,660 - INFO - MEMORY: PASS
+2026-03-16 21:14:54,660 - INFO - DISK: PASS
+2026-03-16 21:14:54,660 - INFO - OVERALL STATUS: FAIL
+2026-03-16 21:14:54,660 - INFO - FAILED METRIC: CPU
+2026-03-16 21:14:54,661 - INFO - Report saved successfully
+2026-03-16 21:14:54,661 - INFO - ATE health monitoring finished
+
+2026-03-16 21:15:07,624 - INFO - Starting ATE Health Monitor
+2026-03-16 21:15:08,629 - INFO - Collected metrics: {'cpu': 3.1, 'memory': 68.8, 'disk': 12.5}
+2026-03-16 21:15:08,629 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 21:15:08,630 - INFO - CPU: 3.1%
+2026-03-16 21:15:08,630 - INFO - MEMORY: 68.8%
+2026-03-16 21:15:08,630 - INFO - DISK: 12.5%
+2026-03-16 21:15:08,630 - INFO - CPU: PASS
+2026-03-16 21:15:08,630 - INFO - MEMORY: PASS
+2026-03-16 21:15:08,630 - INFO - DISK: PASS
+2026-03-16 21:15:08,630 - INFO - OVERALL STATUS: PASS
+2026-03-16 21:15:08,631 - INFO - Report saved successfully
+2026-03-16 21:15:08,631 - INFO - ATE health monitoring finished
+
+2026-03-16 21:21:24,359 - INFO - Starting ATE Health Monitor
+2026-03-16 21:21:25,365 - INFO - Collected metrics: {'cpu': 1.1, 'memory': 68.4, 'disk': 12.5}
+2026-03-16 21:21:25,365 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 21:21:25,365 - INFO - CPU: 1.1%
+2026-03-16 21:21:25,365 - INFO - MEMORY: 68.4%
+2026-03-16 21:21:25,365 - INFO - DISK: 12.5%
+2026-03-16 21:21:25,365 - INFO - CPU: PASS
+2026-03-16 21:21:25,365 - INFO - MEMORY: PASS
+2026-03-16 21:21:25,365 - INFO - DISK: PASS
+2026-03-16 21:21:25,365 - INFO - OVERALL STATUS: PASS
+2026-03-16 21:21:25,367 - INFO - Report saved successfully
+2026-03-16 21:21:25,367 - INFO - ATE health monitoring finished
+
+2026-03-16 21:21:33,398 - INFO - Starting ATE Health Monitor
+2026-03-16 21:21:34,403 - INFO - Test failure mode enabled: CPU set to 95%
+2026-03-16 21:21:34,404 - INFO - Collected metrics: {'cpu': 95, 'memory': 68.4, 'disk': 12.5}
+2026-03-16 21:21:34,404 - INFO - Evaluation results: {'cpu': 'FAIL', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-16 21:21:34,404 - INFO - CPU: 95%
+2026-03-16 21:21:34,404 - INFO - MEMORY: 68.4%
+2026-03-16 21:21:34,404 - INFO - DISK: 12.5%
+2026-03-16 21:21:34,404 - INFO - CPU: FAIL
+2026-03-16 21:21:34,404 - INFO - MEMORY: PASS
+2026-03-16 21:21:34,404 - INFO - DISK: PASS
+2026-03-16 21:21:34,404 - INFO - OVERALL STATUS: FAIL
+2026-03-16 21:21:34,404 - INFO - FAILED METRIC: CPU
+2026-03-16 21:21:34,406 - INFO - Report saved successfully
+2026-03-16 21:21:34,406 - INFO - ATE health monitoring finished
+
+2026-03-19 19:39:10,503 - INFO - Starting ATE Health Monitor
+2026-03-19 19:39:11,509 - INFO - Collected metrics: {'cpu': 1.2, 'memory': 70.5, 'disk': 12.1}
+2026-03-19 19:39:11,509 - INFO - Evaluation results: {'cpu': 'PASS', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-19 19:39:11,509 - INFO - CPU: 1.2%
+2026-03-19 19:39:11,509 - INFO - MEMORY: 70.5%
+2026-03-19 19:39:11,509 - INFO - DISK: 12.1%
+2026-03-19 19:39:11,509 - INFO - CPU: PASS
+2026-03-19 19:39:11,509 - INFO - MEMORY: PASS
+2026-03-19 19:39:11,509 - INFO - DISK: PASS
+2026-03-19 19:39:11,509 - INFO - OVERALL STATUS: PASS
+2026-03-19 19:39:11,512 - INFO - Report saved successfully
+2026-03-19 19:39:11,512 - INFO - ATE health monitoring finished
+
+2026-03-19 19:39:17,673 - INFO - Starting ATE Health Monitor
+2026-03-19 19:39:18,679 - INFO - Test failure mode enabled: CPU set to 95%
+2026-03-19 19:39:18,680 - INFO - Collected metrics: {'cpu': 95, 'memory': 70.3, 'disk': 12.1}
+2026-03-19 19:39:18,680 - INFO - Evaluation results: {'cpu': 'FAIL', 'memory': 'PASS', 'disk': 'PASS'}
+2026-03-19 19:39:18,680 - INFO - CPU: 95%
+2026-03-19 19:39:18,680 - INFO - MEMORY: 70.3%
+2026-03-19 19:39:18,680 - INFO - DISK: 12.1%
+2026-03-19 19:39:18,680 - INFO - CPU: FAIL
+2026-03-19 19:39:18,680 - INFO - MEMORY: PASS
+2026-03-19 19:39:18,680 - INFO - DISK: PASS
+2026-03-19 19:39:18,681 - INFO - OVERALL STATUS: FAIL
+2026-03-19 19:39:18,681 - INFO - FAILED METRIC: CPU
+2026-03-19 19:39:18,682 - INFO - Report saved successfully
+2026-03-19 19:39:18,682 - INFO - ATE health monitoring finished
+

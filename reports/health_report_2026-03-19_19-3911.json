@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-03-19_19-3911",
+    "metrics": {
+        "cpu": 1.2,
+        "memory": 70.5,
+        "disk": 12.1
+    },
+    "results": {
+        "cpu": "PASS",
+        "memory": "PASS",
+        "disk": "PASS"
+    },
+    "overall_status": "PASS"
+}
