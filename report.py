@@ -1,11 +1,6 @@
 import json
 import os
 from datetime import datetime
-#datetime class from datetime module
-#datetime (module)
-# └── datetime (class)
-#         └── now()
-#         └── strftime()
 
 def save_report(metrics, results, overall_status):
 
