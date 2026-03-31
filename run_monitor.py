@@ -15,10 +15,6 @@ def main():
     logger = setup_logger()
 
     logger.info("Starting ATE Health Monitor")
-    #logging builds record of:
-    #time: 2026-03-16 20:15:41
-    #level: INFO
-    #message: Starting ATE health monitor
 
     metrics = get_system_metrics()
 
@@ -27,8 +23,6 @@ def main():
         logger.info("Test failure mode enabled: CPU set to 95%")
 
     # ----- FAKE FAILURE TEST -----
-    # Uncomment this line to simulate a failure
-    # metrics["cpu"] = 95
 
     logger.info(f"Collected metrics: {metrics}")
 
@@ -38,9 +32,6 @@ def main():
     print("\n----- SYSTEM METRICS -----:")
 
     for metric, value in metrics.items():
-        #items puts the dictionary into pairs... I.E. ("cpu", 8.2), ("memory", 52.1)...
-        #upper makes it uppercase... metric becomes first value by default, value second
-        #'f' before the " means formatted string... allows for variables to be directly inserted inside a string with {}
         print(f"{metric.upper()}: {value}%")
         logger.info(f"{metric.upper()}: {value}%")
 
