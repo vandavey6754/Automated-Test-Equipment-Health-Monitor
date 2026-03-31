@@ -20,7 +20,6 @@ def evaluate_metrics(metrics):
             results[metric] = "PASS"
 
     if failed_metrics:
-        #(is not empty)
         overall_status = "FAIL"
     else:
         overall_status = "PASS"
